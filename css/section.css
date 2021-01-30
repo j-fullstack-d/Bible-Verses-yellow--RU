@@ -16,7 +16,7 @@
 }
 
 .section__button {
-  background-color: hsl(180, 100%, 45%);
+  background-color: hsl(300, 100%, 40%);
   border-style: none;
   font-size: 14px;
   padding: 8px;
@@ -24,7 +24,7 @@
 }
 
 .section__button:hover {
-  background-color: hsl(180, 100%, 50%);
+  background-color: hsl(300, 100%, 50%);
 }
 
 .section__button--link {
