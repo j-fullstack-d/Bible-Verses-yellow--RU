@@ -15,10 +15,6 @@
   font-weight: bold;
 }
 
-.section--color--aqua {
-  color: hsl(180, 100%, 80%);
-}
-
 .section__button {
   background-color: hsl(300, 100%, 40%);
   border-style: none;
